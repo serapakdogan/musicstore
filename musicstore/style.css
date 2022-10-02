@@ -1,0 +1,27 @@
+.prdct{
+    color : #8a2be2; 
+}
+
+.card{
+    width: 22rem;
+    height: 32rem
+}
+.card-img-top{
+    height: 310px;
+    
+}
+.card-text{
+    color: #8a2be2;
+    font-weight: 700;
+}
+
+.card-body{
+    color: #8a2be2;
+    
+}
+.text{
+    color: black;
+}
+.title{
+    color: goldenrod;
+}
